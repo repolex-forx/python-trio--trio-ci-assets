@@ -1,0 +1,22 @@
+{
+  "manifest_version": "1.0",
+  "org": "python-trio",
+  "repo": "trio-ci-assets",
+  "versions": [
+    {
+      "commit": "a4adf1b1491acb231d39982fc487e235b50f3bf3",
+      "parsed_at": "2026-10-11T22:38:08.500767+00:00",
+      "filetree": "filetree/a4adf1b1491acb231d39982fc487e235b50f3bf3.nq.gz",
+      "blobs": [
+        "blob/c6cb3743b3852b92b7ecd09a6ac1ef4e8af8358b.nq.gz",
+        "blob/dc232bd63c1471c2c6b0dc0a6d76904628868ece.nq.gz",
+        "blob/8d388151507f379c4f52c131f3a2fcc4907d46e3.nq.gz",
+        "blob/cb76677818530c221f80313d28c0e83ca2237bf8.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
