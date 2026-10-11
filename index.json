@@ -1,0 +1,11 @@
+{
+  "org": "python-trio",
+  "repo": "trio-ci-assets",
+  "versions": [
+    {
+      "commit": "a4adf1b1491acb231d39982fc487e235b50f3bf3",
+      "tag": "",
+      "parsed_at": "2026-10-11T22:41:38.262713+00:00"
+    }
+  ]
+}
